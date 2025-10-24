@@ -69,20 +69,20 @@ streamlit run ui/app.py
 
 A interface do Streamlit estará disponível em http://localhost:8501.
 
-![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 15_8aefa959](https://github.com/user-attachments/assets/261637d7-8db3-43b4-8118-116233b9b307)
+![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 15_e5f0a8a5](https://github.com/user-attachments/assets/d7f1e620-9dd1-40b6-b55b-a64ed50ca1db)
 
 Aqui estão exemplos dos retornos da API após a execução.
 
-![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 15_7ab9dbed](https://github.com/user-attachments/assets/01ad32be-ef6b-4f8c-a9dd-b55fc848a23c)
+![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 16_048ad919](https://github.com/user-attachments/assets/69607b16-cd80-435b-8dee-a02597a5667f)
 
 Documentação Interativa (/docs)
 
-![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 16_709ba894](https://github.com/user-attachments/assets/3d53f7db-8fd9-4b4e-95f4-42a957c59814)
+![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 16_6dc20d31](https://github.com/user-attachments/assets/1777a75f-d58b-461e-a6f1-11a8c85f67f3)
 
 Retorno do Endpoint (/stats)
 
 
-![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 16_266f54b9](https://github.com/user-attachments/assets/8c039809-9be3-45e4-9b4d-5211e65b51b2)
+![Imagem do WhatsApp de 2025-10-24 à(s) 17 51 15_8aefa959](https://github.com/user-attachments/assets/261637d7-8db3-43b4-8118-116233b9b307)
 
 
 
