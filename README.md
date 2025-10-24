@@ -69,19 +69,18 @@ streamlit run ui/app.py
 
 A interface do Streamlit estará disponível em http://localhost:8501.
 
-📸 Screenshots da API
+Screenshots da API
 
 Aqui estão exemplos dos retornos da API após a execução.
 
-Documentação Interativa (/docs)
+(Adicione aqui ps prints do dashboard)
 
-Acesse http://127.0.0.1:8000/docs para ver a documentação gerada automaticamente pelo FastAPI.
+Documentação Interativa (/docs)
 
 (Adicione aqui um print da sua tela mostrando a página /docs)
 
 Retorno do Endpoint (/stats)
 
-Acesse http://127.0.0.1:8000/stats para ver o conteúdo do stats.json.
 
 (Adicione aqui um print da sua tela mostrando o JSON de retorno do /stats)
 
