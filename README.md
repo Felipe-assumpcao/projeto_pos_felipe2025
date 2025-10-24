@@ -83,5 +83,9 @@ Retorno do Endpoint (/stats)
 
 
 (Adicione aqui um print da sua tela mostrando o JSON de retorno do /stats)
+![01](https://github.com/user-attachments/assets/0ef7cdb6-175f-49ca-bd4e-a151e0cc684a)
+![02](https://github.com/user-attachments/assets/8866876d-36b4-4835-80c6-e07b23250d58)
+![03](https://github.com/user-attachments/assets/e241a4c7-1537-421a-93c6-337e44da7fc5)
+![04](https://github.com/user-attachments/assets/782bdb1b-a89e-48d0-8d81-85520aae8175)
 
 {
